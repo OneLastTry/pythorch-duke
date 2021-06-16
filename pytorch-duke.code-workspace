@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "remote"
+	}
+}
